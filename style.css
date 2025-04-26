@@ -111,7 +111,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url(../test/images/police.jpg);
+  background-image: url(https://raw.githubusercontent.com/ShadyGamer9292/BreakingTheBlueWallPodcastWebsite/refs/heads/main/images/police-backshot.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
